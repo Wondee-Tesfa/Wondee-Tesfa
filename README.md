@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wondmagegn Tesfa</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
-
+<h3 align="left">A passionate frontend developer from Ethiopia</h3>
+<p> <img  align="centre" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wondee-tesfa&label=Profile%20views&color=0e75b6&style=flat" alt="wondee-tesfa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wondee-tesfa" alt="wondee-tesfa" /></a> </p>
